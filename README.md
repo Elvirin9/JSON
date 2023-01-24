@@ -1,0 +1,1 @@
+<img src="https://ci.appveyor.com/api/projects/status/Elvirin9/AppVeyore" alt="Project Badge" width="300">
