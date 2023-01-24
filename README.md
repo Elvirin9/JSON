@@ -1,1 +1,1 @@
-<img src="https://ci.appveyor.com/api/projects/status/Elvirin9/AppVeyore" alt="Project Badge" width="300">
+[![Build status](https://ci.appveyor.com/api/projects/status/33hd0lau7pluh03b?svg=true)](https://ci.appveyor.com/project/Elvirin9/json)
